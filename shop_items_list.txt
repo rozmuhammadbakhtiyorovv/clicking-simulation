@@ -1,0 +1,104 @@
+STIMULATION ENGINE - CURRENT SHOP ITEMS LIST
+
+Here are all the items currently implemented in the shop.
+Please provide the new order, categories, and any pricing adjustments you'd like.
+
+1. id: 'day_night_cycle'
+   Name: Day & Night Cycle
+   Desc: A hand-drawn sky that cycles every 50 seconds.
+   Emoji: 🌞
+
+2. id: 'subway_surfers'
+   Name: Subway Surfers
+   Desc: Tiny endless gameplay in corner. +5 clicks/sec
+   Emoji: 🏃
+
+3. id: 'minecraft_parkour'
+   Name: Minecraft Parkour
+   Desc: AI voice reading Reddit stories. +15 clicks/sec
+   Emoji: ⛏️
+
+4. id: 'mystery_box'
+   Name: Mystery Box Spawner
+   Desc: Enables random rewarding gift boxes.
+   Emoji: 🎁
+
+5. id: 'family_guy'
+   Name: Family Guy Clips
+   Desc: Random funny clips materializing. +40 clicks/sec
+   Emoji: 📺
+
+6. id: 'slime_asmr'
+   Name: Slime ASMR
+   Desc: Crunchy slime stretching sounds. +100 clicks/sec
+   Emoji: 🫧
+
+7. id: 'chaos_buttons'
+   Name: Chaos Buttons
+   Desc: Unlocks "One More Click" and "Trust Me" popups.
+   Emoji: 🔘
+
+8. id: 'lofi_beats'
+   Name: Lofi Beats
+   Desc: Calm music for "focus". +250 clicks/sec
+   Emoji: 🎧
+
+9. id: 'lag_system'
+   Name: Lag Rewards
+   Desc: Random fake lag that gives massive survival bonuses.
+   Emoji: 🐢
+
+10. id: 'ai_news'
+    Name: AI Generated News
+    Desc: Fake breaking news ticker. +500 clicks/sec
+    Emoji: 🗞️
+
+11. id: 'tiktok_feed'
+    Name: TikTok Feed
+    Desc: Infinite vertical scrolling chaos. +1000 clicks/sec
+    Emoji: 📱
+
+12. id: 'stock_panic'
+    Name: Stock Market Panic
+    Desc: Fake crypto prices flashing. +2500 clicks/sec
+    Emoji: 📉
+
+13. id: 'keyboard_smash'
+    Name: Keyboard Smash
+    Desc: Loud typing noises on every click. +5000 clicks/sec
+    Emoji: ⌨️
+
+14. id: 'notification_flood'
+    Name: Notification Flood
+    Desc: Every click generates fake alerts. Multiplier x2
+    Emoji: 🔔
+
+15. id: 'attention_meter'
+    Name: Attention Span Meter
+    Desc: A decreasing bar. Don't let it hit zero! Multiplier x2
+    Emoji: 📊
+
+16. id: 'brain_rot_gen'
+    Name: Brain Rot Generator
+    Desc: Procedural nonsense generator. Multiplier x2
+    Emoji: 🧠
+
+17. id: 'overload_system'
+    Name: Overload Combo System
+    Desc: Massive multiplier for active systems.
+    Emoji: ⚡
+
+18. id: 'legend_oripov'
+    Name: LEGEND: Oripov Play
+    Desc: The ultimate stimulation. +50000 clicks/sec
+    Emoji: 🎰
+
+19. id: 'legend_kuplinov'
+    Name: LEGEND: Kuplinov
+    Desc: Creepy Tale play-through. +100000 clicks/sec
+    Emoji: 👹
+
+20. id: 'golden_cub'
+    Name: THE GOLDEN CUB
+    Desc: The final piece of the puzzle. End it all.
+    Emoji: 🏆
